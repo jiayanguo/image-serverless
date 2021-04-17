@@ -1,0 +1,2 @@
+I was trying to implement image scale function with object lambda. Which turned out it didn't work. The feature is still in its earlier version. It is not working.
+https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/
